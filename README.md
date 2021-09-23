@@ -1,7 +1,10 @@
-# Game-Consoles-Releases
+# Game Consoles Releases
 
 ## Link to shinyapps.io page:
 https://taylorc2.shinyapps.io/final-project-minhpham-connertaylor/
+
+## Co-Authors
+Connor Taylor
 
 ## List of files:
 * `app.R`: the main file that runs the shiny app
